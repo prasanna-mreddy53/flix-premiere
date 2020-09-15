@@ -6,9 +6,9 @@ In the project directory, you can run:
 
 ### Written 2 questions implementations
 
-    1. q1.js is in src folder. you can run by using below command
+    1. q1.js is in src folder. you can run by using below command from src folder
 
-### `node q1.js`
+### `node q1.js 1 2 3 a null 20 22 33 c`
 
     2. you can run by using below command
 
